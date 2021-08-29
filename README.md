@@ -1,2 +1,0 @@
-# nftwei.com
-nftwei website
